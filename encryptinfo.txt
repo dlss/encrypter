@@ -1,0 +1,16 @@
+ep=D:\GreenTools\Tools\MyTools\BackendTool\BackendTool.exe
+p.key=13589!1120161223@)!^!@#$
+p.iv=@)!^!@#$
+p.alt=TripleDES
+
+# file list
+p.in=encryptlist.txt
+
+# a file
+#p.in=d:\1.txt
+#p.ver=1
+
+# text
+#p.str=test789
+#p.out=d:\1.txt_encrypt
+#p.ver=1

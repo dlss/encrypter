@@ -1,0 +1,12 @@
+{
+  "name": "encrypter",
+  "description": "encrypt and decrypt tool",
+  "bin": "./bin/encrypter",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "lodash": "^4.17.4",
+    "shelljs": "^0.7.7",
+    "fs-extra": "^2.1.2"
+  },
+  "version": "1.0.0"
+}
