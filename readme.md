@@ -49,6 +49,7 @@
 		# path=d:\test
 		# path=.
 		# path=test/music/mp4
+		# ignore=.gitignore|encrypter.ignore
 
 		# a file
 		#p.file=d:\1.txt
