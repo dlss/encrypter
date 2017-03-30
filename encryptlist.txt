@@ -1,9 +1,0 @@
-!node_modules/
-!.idea
-!npm-debug.log
-!result/
-!logs/
-!.git/
-!.gitignore
-
-nodejs/Encrypted/

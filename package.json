@@ -1,12 +1,18 @@
 {
-  "name": "encrypter",
+  "name": "dlss_encrypter",
+  "version": "1.0.0",
   "description": "encrypt and decrypt tool",
   "bin": "./bin/encrypter",
+  "files": [
+    "encrypt.ignore",
+    "encryptinfo.txt"
+  ],
   "dependencies": {
     "commander": "^2.9.0",
     "lodash": "^4.17.4",
     "shelljs": "^0.7.7",
-    "fs-extra": "^2.1.2"
-  },
-  "version": "1.0.0"
+    "fs-extra": "^2.1.2",
+    "dlss_nodelib": "^1.0.2"
+  }
+  
 }
