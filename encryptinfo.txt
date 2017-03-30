@@ -1,4 +1,4 @@
-ep=D:\GreenTools\Tools\MyTools\BackendTool\BackendTool.exe
+ep=D:\SourceCode\GreenTools\Tools\MyTools\BackendTool\BackendTool.exe
 p.key=13589!1120161223@)!^!@#$
 p.iv=@)!^!@#$
 p.alt=TripleDES
