@@ -19,5 +19,5 @@ p.alg=TripleDES
 # files=d:\test
 # files=.
 # files=test/music/mp4
-# ignore=.gitignore|encrypter.ignore
+# ignore=.gitignore;encrypter.ignore
 ```
